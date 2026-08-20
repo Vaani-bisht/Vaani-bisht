@@ -9,10 +9,10 @@
 <a href="mailto:vaanibisht18@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-134E4A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/Vaani-bisht">
 <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/vaani-bisht/">
 <img src="https://img.shields.io/badge/LINKEDIN-115E59?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -267,7 +267,7 @@ Part of the organizing team, working across **technical events, coordination, co
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%" />
+<img src="https://raw.githubusercontent.com/Vaani-bisht/Vaani-bisht/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%" />
 
 </div>
 
