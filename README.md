@@ -96,29 +96,14 @@ Learning how to design, build and connect systems beyond just solving individual
 
 ### `01` — E-Commerce Product Intelligence
 
-> **What happens when product data meets ML?**
+> An automated pipeline for collecting, storing and analyzing **1,000+ e-commerce products** using ML.
 
-A pipeline that collects and structures **1,000+ e-commerce products**, then uses machine learning to find patterns across them.
+**Tech Stack:** `Python · Playwright · GraphQL · MongoDB · TF-IDF · K-Means · Streamlit`
 
-#### Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mongodb" />
-</p>
-
-<img src="https://img.shields.io/badge/Playwright-4A2333?style=flat-square&logo=playwright&logoColor=45BA4B" />
-<img src="https://img.shields.io/badge/GraphQL-4A2333?style=flat-square&logo=graphql&logoColor=E10098" />
-<img src="https://img.shields.io/badge/TF--IDF-4A2333?style=flat-square" />
-<img src="https://img.shields.io/badge/K--Means-4A2333?style=flat-square" />
-<img src="https://img.shields.io/badge/Streamlit-4A2333?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
-
-#### The interesting part
-
-* Automated product data collection
-* GraphQL-based extraction
-* MongoDB storage with schema validation
-* Product segmentation using TF-IDF + K-Means
-* Interactive dashboard for search, clustering and price analysis
+- Automated product data extraction
+- GraphQL-based data collection
+- Product segmentation using TF-IDF + K-Means
+- Interactive dashboard for search and price analysis
 
 **Repository:** `E-commerce Product Pipeline`
 
@@ -126,26 +111,13 @@ A pipeline that collects and structures **1,000+ e-commerce products**, then use
 
 ### `02` — NLP Sentiment Analysis
 
-> **30K+ tweets → patterns in public opinion**
+> An NLP project that analyzes **30K+ tweets** and classifies them as Positive, Negative or Neutral.
 
-An NLP project that analyzes tweets and classifies them as **Positive, Negative or Neutral**.
+**Tech Stack:** `Python · NLTK · TextBlob · Scikit-learn`
 
-#### Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<img src="https://img.shields.io/badge/NLTK-4A2333?style=flat-square" />
-<img src="https://img.shields.io/badge/TextBlob-4A2333?style=flat-square" />
-<img src="https://img.shields.io/badge/scikit--learn-4A2333?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
-
-#### The interesting part
-
-* Worked with 30K+ tweets
-* Text preprocessing
-* Sentiment classification
-* Extracting public-opinion trends from social-media data
+- Text preprocessing and cleaning
+- Sentiment classification
+- Extracted trends from social-media data
 
 **Repository:** `NLP-in-social-media`
 
@@ -153,9 +125,18 @@ An NLP project that analyzes tweets and classifies them as **Positive, Negative 
 
 ### `03` — Personal Boundary / Mini Compiler
 
-> **Because sometimes you just want to build a compiler.**
+> A C++ mini compiler implementing the core stages of source-code processing.
 
-A C++ mini compiler implementing the fundamental stages of source-code processing.
+**Tech Stack:** `C++ · HTML · Lexical Analysis · Parsing · Semantic Analysis`
+
+- Lexical analysis
+- Parsing
+- Semantic checking
+- Interactive HTML interface
+
+**Repository:** `Personal-Boundary-Mini-Compiler`
+
+---
 
 #### Stack
 
