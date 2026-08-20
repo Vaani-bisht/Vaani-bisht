@@ -138,26 +138,6 @@ Learning how to design, build and connect systems beyond just solving individual
 
 ---
 
-#### Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,html" />
-</p>
-
-<img src="https://img.shields.io/badge/Lexical%20Analysis-4A2333?style=flat-square" />
-<img src="https://img.shields.io/badge/Parsing-4A2333?style=flat-square" />
-<img src="https://img.shields.io/badge/Semantic%20Analysis-4A2333?style=flat-square" />
-
-#### The interesting part
-
-* Lexical analysis
-* Parsing
-* Semantic checking
-* HTML interface for interaction and visualization
-
-**Repository:** `Personal-Boundary-Mini-Compiler`
-
----
 
 ## `my toolbox`
 
